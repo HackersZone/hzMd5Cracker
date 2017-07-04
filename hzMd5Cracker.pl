@@ -99,7 +99,12 @@ do{
    if ($RawString[$i] > length($alpha)-1){
 
     if ($i==$CharSet-1){
-
+	
+	print "\n";
+  print "---Everybody Needs A Hacker---\n";
+  print "Powered By Abdal Security Group\n";
+  print "-----------------------------\n";
+  
     print "Bruteforcing done with $CharSet Chars. No Results.\n";
 
     $cnt=0;
@@ -196,6 +201,10 @@ if ($Stop-$Start>$dbgtmr){
 
 if ($ARGV[3] eq $hash){
 
+print "\n";
+  print "---Everybody Needs A Hacker---\n";
+  print "Powered By Abdal Security Group\n";
+  print "-----------------------------\n";
   die "\nPassword Cracked! => $ret\n";
 
 }
