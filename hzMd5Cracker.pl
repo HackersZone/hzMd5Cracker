@@ -68,7 +68,7 @@ print " # Hackers.Zone MD5 Hash Cracker -                        				    #\n";
 print " #  						                                                    #\n";
 print " # good source from good people for your profit working                      #\n";
 print " #                                                                           #\n";
-print " # Usage: ./md5crack.pl <setChar> <minChar> <maxChar> <hashMD5>              #\n";
+print " # Usage: perl hzMd5Cracker.pl <setChar> <minChar> <maxChar> <hashMD5>       #\n";
 print " # Character options: a - small letters # a,b,c                              #\n";
 print " #                    A - big letters   # A,B,C                              #\n";
 print " #                    n - numbers       # 1,2,3                              #\n";
