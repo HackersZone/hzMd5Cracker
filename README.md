@@ -1,7 +1,7 @@
 # hzMd5Cracker
 Hackers.Zone MD5 Hash Cracker -                        				    						                                                 
 good source from good people for your profit working                                                                                            
-Usage: ./md5crack.pl <setChar> <minChar> <maxChar> <hashMD5>           
+Usage: perl hzMd5Cracker.pl <setChar> <minChar> <maxChar> <hashMD5>           
 Character options: a - small letters # a,b,c                              
                   A - big letters   # A,B,C                              
                   n - numbers       # 1,2,3                              
